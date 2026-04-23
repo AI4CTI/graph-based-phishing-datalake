@@ -1,0 +1,8 @@
+.*
+data/*
+!data/.gitignore
+!data/sample
+!data/sample/history__web_crawler/.gitignore
+output/*
+!output/.gitignore
+__*
