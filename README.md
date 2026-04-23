@@ -1,4 +1,4 @@
-# WP2_FISA Deliverable: Screenshot Encoding and Clustering
+# Graph-Based Phishing Datalake: Screenshot Encoding and Clustering
 
 This project builds visual embeddings from website screenshots and clusters them using two agglomerative-style strategies:
 
