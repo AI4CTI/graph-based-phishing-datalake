@@ -10,7 +10,7 @@ The pipeline is designed for screenshots stored in parquet files (column `screen
 ## Project Structure
 
 ```text
-WP2_FISA/
+graph-based-phishing-datalake/
 ├── screen_encoding.py
 ├── agglomerative_clustering_min_distance.py
 ├── agglomerative_clustering_centroids.py
